@@ -1,4 +1,4 @@
-import { EntryType } from "./enum";
+import { EntryType } from "./economy";
 
 const StatisticWidget = ({ label, value,type }) => {
 

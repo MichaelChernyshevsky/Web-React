@@ -6,6 +6,7 @@ import Home from './screens/home';
 // import Example_3 from './screens/Example_3';
 import Hooks from './screens/hooks/hooks';
 import Economy from './screens/economy/economy';
+import ContactForm from './screens/contact_form/contact_form';
 
 
 const App = () => {
@@ -16,23 +17,19 @@ const App = () => {
         <ul className="flex items-center space-x-6">
         <h1 className="text-3xl text-red-500">Pages:</h1>
         <div className='text-lime-600 flex flex-row space-x-9 px-10'>
-        <li><Link to="/"> Home</Link> </li>
+        <li> <Link to="/"> Home</Link> </li>
         <li> <Link to="/hooks"> Hooks</Link> </li>
         <li> <Link to="/economy"> Economy</Link> </li>
+        <li> <Link to="/contact"> Contact</Link> </li>
         </div>
-
-
         </ul>
       </nav>
       <hr className="border-t-2 border-gray-300 my-4" />
-
       <Routes>
-
       <Route path="/" element={<Home />} />
       <Route path="/hooks" element={<Hooks />} />
       <Route path="/economy" element={<Economy />} />
-
-       
+      <Route path="/contact" element={<ContactForm />} />
       </Routes>
     </Router>
     </div>

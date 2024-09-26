@@ -1,6 +1,5 @@
 import React, { useReducer } from 'react';
 import StatisticWidget from './statistic';
-import { EntryType } from "./enum";
 
 // Определяем типы действий для useReducer
 const ACTIONS = {
@@ -8,6 +7,12 @@ const ACTIONS = {
   DELETE_ENTRY: 'delete-entry',
   SET_AMOUNT: 'set-amount',
   SET_TYPE: 'set-type',
+};
+
+export const EntryType = {
+  INCOME: 'income',
+  SPENDING: 'spending',
+  All: 'all',
 };
 
 
