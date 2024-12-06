@@ -1,0 +1,1148 @@
+.goszakaz {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .goszakaz .div {
+    height: 9310px;
+    overflow-x: hidden;
+    position: relative;
+    width: 1920px;
+  }
+  
+  .goszakaz .overlap {
+    height: 1679px;
+    left: -10px;
+    position: absolute;
+    top: 3091px;
+    width: 1920px;
+  }
+  
+  .goszakaz .footer {
+    background-color: transparent;
+    height: 230px;
+    left: 0;
+    position: absolute;
+    top: 1449px;
+    width: 1920px;
+  }
+  
+  .goszakaz .overlap-group {
+    height: 230px;
+    position: relative;
+    width: 1922px;
+  }
+  
+  .goszakaz .overlap-group-wrapper {
+    height: 230px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1922px;
+  }
+  
+  .goszakaz .overlap-group-2 {
+    background-color: var(--collection-1-dark);
+    height: 230px;
+    position: relative;
+    width: 1920px;
+  }
+  
+  .goszakaz .phone-number {
+    height: 19px;
+    left: 1049px;
+    position: absolute;
+    top: 187px;
+    width: 40px;
+  }
+  
+  .goszakaz .phone-number-2 {
+    height: 19px;
+    left: 1049px;
+    position: absolute;
+    top: 159px;
+    width: 40px;
+  }
+  
+  .goszakaz .element {
+    color: var(--collection-1-white);
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 1054px;
+    letter-spacing: 0;
+    line-height: 30px;
+    opacity: 0.89;
+    position: absolute;
+    top: 51px;
+    width: 670px;
+  }
+  
+  .goszakaz .text-wrapper {
+    color: #ffffff;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 30px;
+  }
+  
+  .goszakaz .group {
+    height: 22px;
+    left: 1054px;
+    position: absolute;
+    top: 129px;
+    width: 290px;
+  }
+  
+  .goszakaz .text-wrapper-2 {
+    color: var(--collection-1-white);
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 45px;
+    letter-spacing: 0;
+    line-height: 30px;
+    opacity: 0.89;
+    position: absolute;
+    top: 0;
+    transform: rotate(-0.02deg);
+    white-space: nowrap;
+    width: 243px;
+  }
+  
+  .goszakaz .vector {
+    height: 16px;
+    left: -1px;
+    position: absolute;
+    top: -1px;
+    width: 32px;
+  }
+  
+  .goszakaz .div-2 {
+    height: 133px;
+    left: 152px;
+    position: absolute;
+    top: 24px;
+    width: 765px;
+  }
+  
+  .goszakaz .p {
+    color: var(--collection-1-white);
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 30px;
+    opacity: 0.89;
+    position: absolute;
+    top: 79px;
+    width: 761px;
+  }
+  
+  .goszakaz .text-wrapper-3 {
+    color: var(--collection-1-white);
+    font-family: "Wremena-Regular", Helvetica;
+    font-size: 60px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 60px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 423px;
+  }
+  
+  .goszakaz .element-2 {
+    background-color: var(--collection-1-white);
+    height: 1469px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1920px;
+  }
+  
+  .goszakaz .overlap-2 {
+    height: 333px;
+    left: 107px;
+    position: absolute;
+    top: 127px;
+    width: 1715px;
+  }
+  
+  .goszakaz .qa {
+    height: 183px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1715px;
+  }
+  
+  .goszakaz .div-3 {
+    color: var(--collection-1-black);
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 86px;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: absolute;
+    top: 28px;
+    width: 1627px;
+  }
+  
+  .goszakaz .span {
+    color: #000000;
+  }
+  
+  .goszakaz .text-wrapper-4 {
+    color: #000000;
+    font-size: 30px;
+  }
+  
+  .goszakaz .frame {
+    height: 93px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 50px;
+  }
+  
+  .goszakaz .qa-2 {
+    height: 183px;
+    left: 0;
+    position: absolute;
+    top: 150px;
+    width: 1678px;
+  }
+  
+  .goszakaz .div-4 {
+    color: var(--collection-1-black);
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 84px;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: absolute;
+    top: 28px;
+    width: 1592px;
+  }
+  
+  .goszakaz .img {
+    height: 93px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 49px;
+  }
+  
+  .goszakaz .overlap-3 {
+    height: 953px;
+    left: 100px;
+    position: absolute;
+    top: 467px;
+    width: 1715px;
+  }
+  
+  .goszakaz .overlap-wrapper {
+    height: 340px;
+    left: 0;
+    position: absolute;
+    top: 613px;
+    width: 1715px;
+  }
+  
+  .goszakaz .overlap-4 {
+    height: 340px;
+    position: relative;
+  }
+  
+  .goszakaz .overlap-group-3 {
+    height: 312px;
+    left: 0;
+    position: absolute;
+    top: 28px;
+    width: 1715px;
+  }
+  
+  .goszakaz .div-5 {
+    color: var(--collection-1-black);
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 86px;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: absolute;
+    top: 0;
+    width: 1627px;
+  }
+  
+  .goszakaz .qa-3 {
+    height: 183px;
+    left: 0;
+    position: absolute;
+    top: 129px;
+    width: 1715px;
+  }
+  
+  .goszakaz .qa-4 {
+    height: 183px;
+    left: 0;
+    position: absolute;
+    top: 300px;
+    width: 1715px;
+  }
+  
+  .goszakaz .qa-5 {
+    height: 183px;
+    left: 7px;
+    position: absolute;
+    top: 0;
+    width: 1590px;
+  }
+  
+  .goszakaz .div-6 {
+    color: var(--collection-1-black);
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 80px;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: absolute;
+    top: 28px;
+    width: 1508px;
+  }
+  
+  .goszakaz .frame-2 {
+    height: 93px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 47px;
+  }
+  
+  .goszakaz .qa-6 {
+    height: 183px;
+    left: 7px;
+    position: absolute;
+    top: 150px;
+    width: 1610px;
+  }
+  
+  .goszakaz .div-7 {
+    color: var(--collection-1-black);
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 81px;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: absolute;
+    top: 28px;
+    width: 1527px;
+  }
+  
+  .goszakaz .qa-7 {
+    height: 183px;
+    left: 0;
+    position: absolute;
+    top: 450px;
+    width: 1715px;
+  }
+  
+  .goszakaz .text-wrapper-5 {
+    color: var(--collection-1-black);
+    font-family: var(--h-2-font-family);
+    font-size: var(--h-2-font-size);
+    font-style: var(--h-2-font-style);
+    font-weight: var(--h-2-font-weight);
+    left: 100px;
+    letter-spacing: var(--h-2-letter-spacing);
+    line-height: var(--h-2-line-height);
+    position: absolute;
+    top: 3px;
+    white-space: nowrap;
+  }
+  
+  .goszakaz .element-3 {
+    background-color: var(--collection-1-white);
+    height: 1190px;
+    left: -10px;
+    position: absolute;
+    top: 1901px;
+    width: 1920px;
+  }
+  
+  .goszakaz .button {
+    all: unset;
+    box-sizing: border-box;
+    height: 80px;
+    left: 1260px;
+    position: absolute;
+    top: 990px;
+    width: 562px;
+  }
+  
+  .goszakaz .div-wrapper {
+    border: 2px solid;
+    border-color: var(--collection-1-green);
+    height: 80px;
+    position: relative;
+    width: 560px;
+  }
+  
+  .goszakaz .text-wrapper-6 {
+    color: var(--collection-1-green);
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    height: 80px;
+    left: -2px;
+    letter-spacing: 0;
+    line-height: 50px;
+    position: absolute;
+    text-align: center;
+    top: -2px;
+    width: 560px;
+  }
+  
+  .goszakaz .phone-number-3 {
+    height: 80px;
+    left: 680px;
+    position: absolute;
+    top: 990px;
+    width: 562px;
+  }
+  
+  .goszakaz .overlap-5 {
+    height: 80px;
+    position: relative;
+    width: 560px;
+  }
+  
+  .goszakaz .text-wrapper-7 {
+    color: var(--collection-1-black);
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    height: 29px;
+    left: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+    opacity: 0.5;
+    position: absolute;
+    top: 26px;
+  }
+  
+  .goszakaz .rectangle {
+    border: 1px solid;
+    border-color: var(--collection-1-black);
+    height: 80px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 560px;
+  }
+  
+  .goszakaz .link {
+    height: 80px;
+    left: 100px;
+    position: absolute;
+    top: 990px;
+    width: 562px;
+  }
+  
+  .goszakaz .overlap-6 {
+    height: 641px;
+    left: 100px;
+    position: absolute;
+    top: 273px;
+    width: 1715px;
+  }
+  
+  .goszakaz .text-wrapper-8 {
+    color: var(--collection-1-black);
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 60px;
+    position: absolute;
+    top: 521px;
+    width: 841px;
+  }
+  
+  .goszakaz .text-wrapper-9 {
+    color: var(--collection-1-black);
+    font-family: "Wremena-Regular", Helvetica;
+    font-size: 70px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 90px;
+    position: absolute;
+    top: 418px;
+    white-space: nowrap;
+  }
+  
+  .goszakaz .overlap-7 {
+    height: 555px;
+    left: 3px;
+    position: absolute;
+    top: 0;
+    width: 1712px;
+  }
+  
+  .goszakaz .bg {
+    height: 407px;
+    left: 992px;
+    position: absolute;
+    top: 148px;
+    width: 710px;
+  }
+  
+  .goszakaz .logos {
+    height: 214px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1712px;
+  }
+  
+  .goszakaz .element-4 {
+    height: 87px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 220px;
+  }
+  
+  .goszakaz .element-5 {
+    height: 87px;
+    left: 410px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 237px;
+  }
+  
+  .goszakaz .photo {
+    height: 87px;
+    left: 838px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 170px;
+  }
+  
+  .goszakaz .element-6 {
+    height: 87px;
+    left: 1153px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 187px;
+  }
+  
+  .goszakaz .fz {
+    height: 87px;
+    left: 1473px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 240px;
+  }
+  
+  .goszakaz .xbaqjo {
+    height: 87px;
+    left: 1px;
+    object-fit: cover;
+    position: absolute;
+    top: 127px;
+    width: 238px;
+  }
+  
+  .goszakaz .element-7 {
+    height: 87px;
+    left: 372px;
+    object-fit: cover;
+    position: absolute;
+    top: 127px;
+    width: 332px;
+  }
+  
+  .goszakaz .element-8 {
+    height: 87px;
+    left: 837px;
+    object-fit: cover;
+    position: absolute;
+    top: 127px;
+    width: 193px;
+  }
+  
+  .goszakaz .div-8 {
+    -webkit-text-stroke: 1px #00000033;
+    color: var(--collection-1-black);
+    font-family: "Inter-Light", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 431px;
+    letter-spacing: 0;
+    line-height: 50px;
+    position: absolute;
+    text-align: center;
+    top: 98px;
+    width: 1090px;
+  }
+  
+  .goszakaz .text-wrapper-10 {
+    color: #000000;
+    font-weight: 300;
+  }
+  
+  .goszakaz .text-wrapper-11 {
+    color: #22a922;
+    font-family: "Inter-Italic", Helvetica;
+    font-style: italic;
+  }
+  
+  .goszakaz .element-9 {
+    background-color: var(--collection-1-white);
+    height: 458px;
+    left: 0;
+    position: absolute;
+    top: 1443px;
+    width: 1920px;
+  }
+  
+  .goszakaz .logos-2 {
+    height: 218px;
+    left: 100px;
+    position: absolute;
+    top: 220px;
+    width: 1615px;
+  }
+  
+  .goszakaz .overlap-group-4 {
+    height: 218px;
+    position: relative;
+  }
+  
+  .goszakaz .group-2 {
+    height: 218px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1615px;
+  }
+  
+  .goszakaz .element-sberbank-logo {
+    height: 88px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 249px;
+  }
+  
+  .goszakaz .uralsib {
+    height: 88px;
+    left: 476px;
+    object-fit: cover;
+    position: absolute;
+    top: 122px;
+    width: 216px;
+  }
+  
+  .goszakaz .unnamed {
+    height: 88px;
+    left: 876px;
+    object-fit: cover;
+    position: absolute;
+    top: 2px;
+    width: 228px;
+  }
+  
+  .goszakaz .logo-gpb {
+    height: 88px;
+    left: 1330px;
+    object-fit: cover;
+    position: absolute;
+    top: 2px;
+    width: 248px;
+  }
+  
+  .goszakaz .element-10 {
+    height: 88px;
+    left: 1330px;
+    object-fit: cover;
+    position: absolute;
+    top: 130px;
+    width: 285px;
+  }
+  
+  .goszakaz .group-3 {
+    height: 208px;
+    left: 14px;
+    position: absolute;
+    top: 2px;
+    width: 1039px;
+  }
+  
+  .goszakaz .absolut-bank {
+    height: 88px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 120px;
+    width: 271px;
+  }
+  
+  .goszakaz .alfa-bank {
+    height: 88px;
+    left: 880px;
+    object-fit: cover;
+    position: absolute;
+    top: 120px;
+    width: 159px;
+  }
+  
+  .goszakaz .element-VTB-logo {
+    height: 88px;
+    left: 485px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 171px;
+  }
+  
+  .goszakaz .element-11 {
+    -webkit-text-stroke: 1px #00000033;
+    color: var(--collection-1-black);
+    font-family: "Inter-Light", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 414px;
+    letter-spacing: 0;
+    line-height: 50px;
+    position: absolute;
+    text-align: center;
+    top: 28px;
+    width: 1090px;
+  }
+  
+  .goszakaz .element-12 {
+    background-color: var(--collection-1-white);
+    height: 523px;
+    left: 0;
+    position: absolute;
+    top: 920px;
+    width: 1920px;
+  }
+  
+  .goszakaz .div-9 {
+    height: 342px;
+    left: 775px;
+    position: absolute;
+    top: 71px;
+    width: 373px;
+  }
+  
+  .goszakaz .group-4 {
+    height: 100px;
+    left: 0;
+    position: absolute;
+    top: 126px;
+    width: 375px;
+  }
+  
+  .goszakaz .text-wrapper-12 {
+    color: var(--collection-1-black);
+    font-family: "Inter-Light", Helvetica;
+    font-size: 40px;
+    font-weight: 300;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 50px;
+    position: absolute;
+    top: 0;
+    width: 371px;
+  }
+  
+  .goszakaz .c {
+    color: var(--collection-1-green);
+    font-family: "Inter-Italic", Helvetica;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 50px;
+    position: absolute;
+    top: 50px;
+    white-space: nowrap;
+  }
+  
+  .goszakaz .text-wrapper-13 {
+    color: var(--collection-1-black);
+    font-family: "Inter-Light", Helvetica;
+    font-size: 24px;
+    font-weight: 300;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 30px;
+    opacity: 0.5;
+    position: absolute;
+    top: 252px;
+  }
+  
+  .goszakaz .img-2 {
+    height: 100px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 100px;
+  }
+  
+  .goszakaz .div-10 {
+    height: 333px;
+    left: 1359px;
+    position: absolute;
+    top: 71px;
+    width: 465px;
+  }
+  
+  .goszakaz .div-11 {
+    color: var(--collection-1-black);
+    font-family: "Inter-Light", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 50px;
+    position: absolute;
+    top: 110px;
+    width: 461px;
+  }
+  
+  .goszakaz .element-13 {
+    color: var(--collection-1-black);
+    font-family: "Inter-Light", Helvetica;
+    font-size: 24px;
+    font-weight: 300;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 30px;
+    opacity: 0.5;
+    position: absolute;
+    top: 245px;
+    width: 415px;
+  }
+  
+  .goszakaz .team {
+    height: 84px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 100px;
+  }
+  
+  .goszakaz .div-12 {
+    height: 372px;
+    left: 100px;
+    position: absolute;
+    top: 71px;
+    width: 438px;
+  }
+  
+  .goszakaz .group-wrapper {
+    height: 100px;
+    left: 0;
+    position: absolute;
+    top: 126px;
+    width: 415px;
+  }
+  
+  .goszakaz .group-5 {
+    height: 100px;
+    width: 419px;
+  }
+  
+  .goszakaz .overlap-group-5 {
+    height: 100px;
+    position: relative;
+    width: 415px;
+  }
+  
+  .goszakaz .text-wrapper-14 {
+    color: var(--collection-1-black);
+    font-family: "Inter-Light", Helvetica;
+    font-size: 40px;
+    font-weight: 300;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 50px;
+    position: absolute;
+    top: 0;
+    width: 415px;
+  }
+  
+  .goszakaz .text-wrapper-15 {
+    color: var(--collection-1-green);
+    font-family: "Inter-Italic", Helvetica;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 400;
+    left: 232px;
+    letter-spacing: 0;
+    line-height: 50px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .goszakaz .text-wrapper-16 {
+    color: var(--collection-1-black);
+    font-family: "Inter-Light", Helvetica;
+    font-size: 24px;
+    font-weight: 300;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 30px;
+    opacity: 0.5;
+    position: absolute;
+    top: 252px;
+    width: 436px;
+  }
+  
+  .goszakaz .element-14 {
+    background-color: var(--collection-1-white);
+    height: 760px;
+    left: 0;
+    position: absolute;
+    top: 160px;
+    width: 1920px;
+  }
+  
+  .goszakaz .hero {
+    height: 433px;
+    left: 203px;
+    position: absolute;
+    top: 327px;
+    width: 1516px;
+  }
+  
+  .goszakaz .phone-number-4 {
+    height: 80px;
+    left: 0;
+    position: absolute;
+    top: 63px;
+    width: 289px;
+  }
+  
+  .goszakaz .overlap-group-6 {
+    height: 80px;
+    position: relative;
+    width: 287px;
+  }
+  
+  .goszakaz .text-wrapper-17 {
+    color: var(--collection-1-black);
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    height: 80px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    opacity: 0.5;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 287px;
+  }
+  
+  .goszakaz .rectangle-2 {
+    border: 1px solid;
+    border-color: var(--collection-1-black);
+    height: 80px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 287px;
+  }
+  
+  .goszakaz .button-2 {
+    all: unset;
+    box-sizing: border-box;
+    height: 80px;
+    left: 307px;
+    position: absolute;
+    top: 63px;
+    width: 442px;
+  }
+  
+  .goszakaz .overlap-8 {
+    height: 80px;
+    position: relative;
+    width: 440px;
+  }
+  
+  .goszakaz .text-wrapper-18 {
+    color: var(--collection-1-green);
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    height: 80px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 440px;
+  }
+  
+  .goszakaz .rectangle-3 {
+    border: 1px solid;
+    border-color: var(--collection-1-green);
+    height: 80px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 440px;
+  }
+  
+  .goszakaz .text-wrapper-19 {
+    color: var(--collection-1-black);
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .goszakaz .pointer {
+    height: 29px;
+    left: 0;
+    position: absolute;
+    top: 180px;
+    width: 615px;
+  }
+  
+  .goszakaz .text-wrapper-20 {
+    color: var(--collection-1-black);
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 26px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .goszakaz .frame-3 {
+    height: 16px;
+    left: 0;
+    position: absolute;
+    top: 7px;
+    width: 16px;
+  }
+  
+  .goszakaz .pointer-2 {
+    height: 29px;
+    left: 0;
+    position: absolute;
+    top: 220px;
+    width: 566px;
+  }
+  
+  .goszakaz .rectangle-wrapper {
+    -webkit-backdrop-filter: blur(15px) brightness(100%);
+    backdrop-filter: blur(15px) brightness(100%);
+    background-color: #ffffff80;
+    border-radius: 50px;
+    box-shadow: inset 0px 0px 15px #ffffff40;
+    height: 180px;
+    left: 767px;
+    position: absolute;
+    top: 253px;
+    width: 747px;
+  }
+  
+  .goszakaz .rectangle-4 {
+    background-color: var(--collection-1-white);
+    border-radius: 50px;
+    filter: blur(38px);
+    height: 146px;
+    left: 47px;
+    position: relative;
+    top: 20px;
+    width: 658px;
+  }
+  
+  .goszakaz .div-13 {
+    height: 158px;
+    left: 1243px;
+    position: absolute;
+    top: 32px;
+    width: 496px;
+  }
+  
+  .goszakaz .group-6 {
+    height: 100px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 415px;
+  }
+  
+  .goszakaz .group-7 {
+    height: 100px;
+    position: relative;
+    width: 417px;
+  }
+  
+  .goszakaz .text-wrapper-21 {
+    color: var(--collection-1-black);
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 40px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 50px;
+    position: absolute;
+    top: 0;
+    width: 415px;
+  }
+  
+  .goszakaz .text-wrapper-22 {
+    color: var(--collection-1-black);
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 24px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 30px;
+    opacity: 0.5;
+    position: absolute;
+    top: 100px;
+    width: 494px;
+  }
+  
